@@ -1,0 +1,13 @@
+body{
+  background: #F7EBD9;
+}
+
+.container {
+  background: white;
+  text-align: center;
+  border: dotted 3px orange;
+}
+
+button {
+  margin-right: 10px;
+}
